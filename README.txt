@@ -5,3 +5,5 @@ This work was supported by a grant from the NIH in support of The University of 
 Any questions about this work can be directed to the BCC at biostats@iu.edu.
 
 All code presented in this tutorial are free for personal re-use.
+
+The website for this tutorial is hosted at https://bcc-iu.github.io/Clustering-and-nesting-tutorial/
